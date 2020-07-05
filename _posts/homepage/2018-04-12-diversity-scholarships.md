@@ -2,7 +2,7 @@
 layout: post
 image: disc.png
 title: Diversity Scholarships
-description: PyData Amsterdam
+description: PyData Eindhoven
 category: [homepage]
 ---
 

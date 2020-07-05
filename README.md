@@ -1,6 +1,6 @@
-## Amsterdam.pydata.org
+## Eindhoven.pydata.org
 
-This repository is used to build amsterdam.pydata.org
+This repository is used to build eindhoven.pydata.org
 
 ## Usage
 
