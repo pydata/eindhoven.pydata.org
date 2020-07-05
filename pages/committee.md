@@ -12,18 +12,24 @@ The committee currently consists of the following people:
 
 <ul class="features">
     {% include committee_member.html
-        name="Marysia Winkels"
-        desc="Marysia is a Machine Learning Engineer at Aidence. She joined the committee as chair in 2019"
-        twitter_url="https://twitter.com/artemiish"
-        linkedin_url="https://www.linkedin.com/in/marysia-winkels-b1012610b/"
-        github_url="https://github.com/marysia"
+        name="Ekhtiar Syed"
+        desc="Ekhtiar is Group Manager for Data Analytics & AI at Signify and a part-time Lecturer at Universiteit Jheronimus Academy of Data Science. He joined the committee as chair in 2019"
+        twitter_url="https://twitter.com/EkhtiarSyed"
+        linkedin_url="https://www.linkedin.com/in/ekhtiar/"
+        github_url="https://github.com/ekhtiar "
     %}
     {% include committee_member.html
-        name="Matthijs Brouns"
-        desc="Matthijs is the Data Science lead at Xccelerated. He also joined the committee as chair in 2019."
-        twitter_url="https://twitter.com/MatthijsBrs"
-        linkedin_url="https://www.linkedin.com/in/mbrouns/"
-        github_url="https://github.com/mbrouns"
+        name="Ruben Mak"
+        desc="Ruben is principal data scientist and cluster lead at Greenhouse. He joined the committee as chair in 2019"
+        twitter_url="https://twitter.com/rubenmak"
+        linkedin_url="https://www.linkedin.com/in/rubenmak"
+        github_url="https://github.com/rubenmak"
+    %}
+    {% include committee_member.html
+        name="Zeinab Bakhtiari"
+        desc="Zeinab is a senior data scientist at TomTom. She joined the committee as chair in 2019"
+        twitter_url="https://twitter.com/ZeinabBakhtiar1"
+        linkedin_url="https://www.linkedin.com/in/zeinab-bakhtiari/"
     %}
 </ul>
 
@@ -31,54 +37,35 @@ The committee currently consists of the following people:
 
 <ul class="features">
     {% include committee_member.html
-        name="Nelson Mooren"
-        desc="Nelson works at Rabobank in Fraud Protection as well as being the treasurer for this conference."
-        linkedin_url="https://www.linkedin.com/in/nelsonmooren/"
-        github_url="https://github.com/Nelson-AM"
+        name="Dennis Ramondt"
+        desc="Dennis is a Lead Data Scientist at BigData Republic. He joined the committee in 2019."
+        linkedin_url="https://www.linkedin.com/in/dennisramondt/"
+        github_url="https://github.com/daramondt"
     %}
     {% include committee_member.html
-        name="Lena Bayeva"
-        desc="Lena is an NLP researcher at Aigent. For PyData Amsterdam she keeps an close eye on our diversity efforts"
-        linkedin_url="https://www.linkedin.com/in/lena-bayeva-8361133/"
+        name="Dimitra Gkorou"
+        desc="Dimitra is a Data Science leader at ASML. She joined the committee in 2019"
+        linkedin_url="https://www.linkedin.com/in/dimitra-Gkorou-21a7ab7/"
+        github_url="https://github.com/dimtr"
     %}
     {% include committee_member.html
-        name="Cindy Lamm"
-        desc="Cindy works as a data scientist at Booking.com and together with the other B.com people, she makes sure the venue is in tip-top shape"
-        linkedin_url="https://www.linkedin.com/in/cindy-lamm-b8381a78/"
-        github_url="https://github.com/clamm"
+        name="Eirini"
+        desc="Eirini is the Developer Advocate at ASML. She joined Pydata Eindhoven in June 2019"
+        twitter_url="https://twitter.com/esikalerioti"
+        linkedin_url="https://www.linkedin.com/in/esykalerioti/"
     %}
     {% include committee_member.html
-        name="Niklas Weber"
-        desc="Niklas Weber as a data scientist at Booking.com and together with the other B.com people, he makes sure the venue is in tip-top shape"
-        linkedin_url="https://www.linkedin.com/in/niklas-weber-20400682/"
-        github_url="https://github.com/nwweber"
+        name="Gareth Thomas"
+        desc="Gareth is passionate about driving the PyData Community. He joined the committee in 2019."
+        twitter_url="https://twitter.com/CityJump3r"
+        linkedin_url="https://www.linkedin.com/in/g-thomas/"
     %}
     {% include committee_member.html
-        name="Eliza Casapopol"
-        desc="Eliza works as a Data Engineer at MiCompany, and Co-founded the first Romanian open-air science festival aimed at the general public"
-        linkedin_url="https://www.linkedin.com/in/eliza-casapopol/"
-    %}
-    {% include committee_member.html
-        name="Rens Dimmendaal"
-        desc="Rens is a data scientist at GoDataDriven."
-        linkedin_url="https://www.linkedin.com/in/rensdimmendaal/"
-        github_url="https://github.com/RensDimmendaal"
-    %}
-    {% include committee_member.html
-        name="Cor Zuurmond"
-        desc="Cor is a machine learning engineer at GoDataDriven."
-        linkedin_url="https://www.linkedin.com/in/cor-zuurmond/"
-		github_url="https://github.com/JCZuurmond/"
-    %}
-    {% include committee_member.html
-        name="Ada Zamora"
-        desc="Ada works in fraud analysis at Booking.com. She was one of the tireless volunteers in the 2019 edition and joined the committee this year."
-        linkedin_url="https://www.linkedin.com/in/adazamora/"
-    %}
-    {% include committee_member.html
-        name="Fahimeh Alizadeh"
-        desc="Fahimeh is a Machine Learning Engineer at Randstad Groep Nederland"
-        linkedin_url="https://www.linkedin.com/in/fahimeh-alizadeh-moghaddam/"
+        name="Koen Vossen"
+        desc="Koen is lead developer and founder at TeamTV, and runs PySport. He joined the committee in 2019."
+        twitter_url="https://twitter.com/mr_le_fox"
+        linkedin_url="https://www.linkedin.com/in/koen-vossen-85902b7/"
+        github_url="https://github.com/koenvo"
     %}
 </ul>
 

@@ -9,9 +9,9 @@ to discuss new techniques and tools for management, analytics and visualization 
 focusing on Python as well as other languages used in data science (e.g. R, Julia). Presentation content can be at a novice, 
 intermediate or advanced level.
 
-## We're accepting proposals until March 29th
+## We're accepting proposals until August 15th
 
-<a href="https://pydata.org/amsterdam2020/accounts/login/" target="_blank" class="button fit special">Submit a proposal here</a>
+<a href="https://pydata.org/eindhoven2020/accounts/login/" target="_blank" class="button fit special">Submit a proposal here</a>
 
 # Proposal Guidelines
 ## Structure
@@ -65,7 +65,7 @@ Here are some common pitfalls that could lead to the proposal not being understo
 
 Some good proposals from last year include:
 
-- [Online machine learning with creme](https://pydata.org/amsterdam2019/schedule/presentation/7/online-machine-learning-with-creme/)
-- [High on cardinality low on memory](https://pydata.org/amsterdam2019/schedule/presentation/10/high-on-cardinality-low-on-memory/)
-- [Popping the filter bubble: measuring diversity in news recommendations](https://pydata.org/amsterdam2019/schedule/presentation/15/popping-the-filter-bubble-measuring-diversity-in-news-recommendations/)
-- [How to easily set up and version your Machine Learning pipelines, using DVC and MLV-tools](https://pydata.org/amsterdam2019/schedule/presentation/32/how-to-easily-set-up-and-version-your-machine-learning-pipelines-using-dvc-and-mlv-tools/)
+- [Process Mining in Python](https://pydata.org/eindhoven2019/schedule/presentation/7/process-mining-in-python/)
+- [Preventing churn like a bandit](https://pydata.org/eindhoven2019/schedule/presentation/16/preventing-churn-like-a-bandit/)
+- [Exploratory Data Analysis (EDA) and Visualization Techniques for Image Segmentation Challenges](https://pydata.org/eindhoven2019/schedule/presentation/15/exploratory-data-analysis-eda-and-visualization-techniques-for-image-segmentation-challenges/)
+- [BigMedilytics: MPyC in practice](https://pydata.org/eindhoven2019/schedule/presentation/18/bigmedilytics-mpyc-in-practice/)

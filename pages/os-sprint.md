@@ -2,6 +2,7 @@
 layout: page
 title: Open-source sprints
 description: 
+published: false
 ---
 
 This year's PyData conference includes an open-source sprint! During the sprint, you can contribute to an open-source project you regularly use. A maintainer will be present to guide the sprint and explain the internals of the project; a perfect way of deep diving into a project. We aim to have a contribution merged into the project!
