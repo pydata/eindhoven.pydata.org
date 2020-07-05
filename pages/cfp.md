@@ -32,7 +32,7 @@ There are two parts to a proposal:
 While there is no strict template for this, you should make sure that the audience can understand why your talk is relevant for them.
 
 ## Mentorship
-Are you a first-time speaker, or just want some extra help preparing your proposal? PyData Amsterdam offers mentorship to help you make the most of your proposal and/or talk. Reach out to us on amsterdam@pydata.org if you are interested. 
+Are you a first-time speaker, or just want some extra help preparing your proposal? PyData Amsterdam offers mentorship to help you make the most of your proposal and/or talk. Reach out to us on eindhoven@pydata.org if you are interested. 
 
 ## Tutorials
 These are 180 minutes hands-on sessions where you have the opportunity to lead a classroom so attendees can learn about a new skill/library/technology in a self-contained way, and have said materials available to students before-hand so they can follow suit. Guidelines for the tutorial proposal are the same as above, but the abstract should make clear what are the requirements for the class and how the materials are going to be distributed (e.g. GitHub repo, links, etc).

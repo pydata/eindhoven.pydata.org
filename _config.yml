@@ -1,17 +1,14 @@
 # Site settings
-title: PyData Amsterdam
+title: PyData Eindhoven
 description:
-  PyData Amsterdam brings together<br />
+  PyData Eindhoven brings together<br />
   users and developers of open-source<br />
   software in the scientific computing<br />
   and python ecosystem.<br /> <br />
 
-  PyData Amsterdam 2020 is postponed<br />
-  due to COVID-19 concerns.<br /><br />
-
   <a href="https://numfocus.org/blog/pydata-covid-19-response">NumFOCUS guidance for PyData events regarding COVID-19</a>
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://amsterdam.pydata.org" # the base hostname & protocol for your site
+url: "https://eindhoven.pydata.org" # the base hostname & protocol for your site
 
 
 future: true
@@ -35,11 +32,11 @@ greeting:
 
     The PyData Code of Conduct governs this conference. To discuss any issues or concerns relating to the code of
     conduct or the behavior of anyone at a PyData conference (or meetup), please contact NumFOCUS Executive Director 
-    Leah Silen (+1 512-222-5449; leah@numfocus.org ) or the local organisers at amsterdam@pydata.org.
+    Leah Silen (+1 512-222-5449; leah@numfocus.org ) or the local organisers at eindhoven@pydata.org.
 
 social:
-  twitter: https://twitter.com/PyDataAmsterdam
-  github: https://github.com/PyDataAmsterdam
+  twitter: https://twitter.com/PyDataEindhoven
+  github: https://github.com/PyDataEindhoven
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -53,14 +50,14 @@ featured-image-source:
 # Social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/PyDataAmsterdam
+github_url: https://github.com/PyDataEindhoven
 gitlab_url:
 googleplus_url:
 instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/pydataamsterdam
+twitter_url: https://twitter.com/PydataEindhoven
 
 # Build settings
 markdown: kramdown
