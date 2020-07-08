@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Meetup
-image: meetup.jpeg
+image: meetup_ehv.jpeg
 category: [homepage]
 ---
 
