@@ -34,11 +34,6 @@ While there is no strict template for this, you should make sure that the audien
 ## Mentorship
 Are you a first-time speaker, or just want some extra help preparing your proposal? PyData Eindhoven offers mentorship to help you make the most of your proposal and/or talk. Reach out to us on eindhoven@pydata.org if you are interested. 
 
-## Tutorials
-These are 180 minutes hands-on sessions where you have the opportunity to lead a classroom so attendees can learn about a new skill/library/technology in a self-contained way, and have said materials available to students before-hand so they can follow suit. Guidelines for the tutorial proposal are the same as above, but the abstract should make clear what are the requirements for the class and how the materials are going to be distributed (e.g. GitHub repo, links, etc).
-
-Tutorials shorter than 180 minutes are also acceptable, but keep in mind that doing hands-on work in less time is much more difficult to organise. We would like to see your approach described in the proposal. Please make it clear in your proposal if you plan to spend less than 180 minutes.
-
 ## Suggestions
 **Who’s the target audience?** - Think about your target audience in terms of job role (data scientist, engineer, researcher, etc.) and experience. Being clear about who you are speaking to (and the background knowledge you can expect them to have) is helpful both to you as you prepare your proposal or talk, as well as to the audience considering whether your talk is a good fit for them to attend.
 
