@@ -64,3 +64,6 @@ twitter_url: https://twitter.com/PydataEindhoven
 markdown: kramdown
 
 destination: ./build
+
+plugins:
+  - jekyll-sitemap
