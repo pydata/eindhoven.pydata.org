@@ -1483,6 +1483,11 @@
 		position: relative;
 		text-align: center;
 
+		h1 {
+			font-size: 1.5em;
+			line-height: 1.5em;
+		}
+
 		h2 {
 			@include vendor('transform', 'scale(1)');
 			@include vendor('transition', ('transform 0.5s ease', 'opacity 0.5s ease'));
@@ -1597,6 +1602,10 @@
 
 	body.is-loading {
 		#banner {
+		    h1 {
+		        line-height: 1.5em;
+		        font-size: 1.5em;
+		    }
 			h2 {
 				@include vendor('transform', 'scale(0.95)');
 				opacity: 0;
