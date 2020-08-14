@@ -9,7 +9,7 @@ to discuss new techniques and tools for management, analytics and visualization 
 focusing on Python as well as other languages used in data science (e.g. R, Julia). Presentation content can be at a novice, 
 intermediate or advanced level.
 
-## We're accepting proposals until August 15th
+## We're accepting proposals until August 31th
 
 <a href="https://pydata.org/eindhoven2020/accounts/login/" target="_blank" class="button fit special">Submit a proposal here</a>
 
