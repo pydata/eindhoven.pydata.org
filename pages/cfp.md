@@ -2,6 +2,7 @@
 layout: page
 title: Call for Proposals
 description: 
+published: false
 ---
 
 PyData brings together analysts, scientists, developers, engineers, architects and others from the data science community
