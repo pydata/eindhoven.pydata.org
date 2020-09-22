@@ -15,6 +15,7 @@ url: "https://eindhoven.pydata.org" # the base hostname & protocol for your site
 future: true
 
 tickets_url: https://www.eventbrite.com/e/pydata-eindhoven-2020-tickets-117358340957
+schedule_url: https://pydata.org/eindhoven2020/schedule/
 cfp_url:
 
 dates:
