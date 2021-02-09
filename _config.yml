@@ -1,22 +1,21 @@
 # Site settings
-title: PyData Eindhoven 2020
+title: PyData Eindhoven
 description:
-  <h1>OCTOBER 7TH - 9TH</h1><br />
-  PyData Eindhoven brings together<br />
-  users and developers of open-source<br />
-  software in the scientific computing<br />
-  and python ecosystem.<br /> <br />
+  A COMMUNITY OF USERS AND<br />
+  DEVELOPERS OF THE PYTHON<br />
+  SCIENTIFIC STACK IN EINDHOVEN
 
-  <a href="https://numfocus.org/blog/pydata-covid-19-response">NumFOCUS guidance for PyData events regarding COVID-19</a>
+#<a href="https://numfocus.org/blog/pydata-covid-19-response">NumFOCUS guidance for PyData events regarding COVID-19</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eindhoven.pydata.org" # the base hostname & protocol for your site
 
 
 future: true
 
-tickets_url: https://www.eventbrite.com/e/pydata-eindhoven-2020-tickets-117358340957
-schedule_url: https://pydata.org/eindhoven2020/schedule/
+tickets_url: #https://www.eventbrite.com/e/pydata-eindhoven-2020-tickets-117358340957
+schedule_url: #https://pydata.org/eindhoven2020/schedule/
 cfp_url:
+meetup_url: https://www.meetup.com/en-AU/PyData-Eindhoven/events/276147716/
 
 dates:
 location:
