@@ -1,9 +1,10 @@
 # Site settings
 title: PyData Eindhoven
 description:
-  A COMMUNITY OF USERS AND<br />
-  DEVELOPERS OF THE PYTHON<br />
-  SCIENTIFIC STACK IN EINDHOVEN
+  PYDATA EINDHOVEN BRINGS TOGETHER<br />
+  USERS AND DEVELOPERS OF OPEN-SOURCE<br />
+  SOFTWARE IN THE SCIENTIFIC COMPUTING<br />
+  AND PYTHON ECOSYSTEM.
 
 #<a href="https://numfocus.org/blog/pydata-covid-19-response">NumFOCUS guidance for PyData events regarding COVID-19</a>
 baseurl: "" # the subpath of your site, e.g. /blog
