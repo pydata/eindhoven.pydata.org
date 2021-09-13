@@ -16,7 +16,7 @@ future: true
 
 tickets_url: #https://www.eventbrite.com/e/pydata-eindhoven-2020-tickets-117358340957
 schedule_url: #https://pydata.org/eindhoven2020/schedule/
-cfp_url:
+cfp_url: https://pydata.org/eindhoven2021/present/
 #meetup_url: https://www.meetup.com/en-AU/PyData-Eindhoven/events/276147716/
 
 dates:
