@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/"
+  to = "https://pydata.org/eindhoven2021/"
+  status = 302
+  force = true
+  
