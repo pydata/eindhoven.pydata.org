@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/"
-  to = "https://pydata.org/eindhoven2021/"
+  to = "https://pydata.org/eindhoven2022/"
   status = 302
   force = true
   
